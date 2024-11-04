@@ -207,10 +207,6 @@ input[type="submit"] {
   color: hsl(228, 45%, 44%);
 }
 
-fieldset:nth-of-type(2) .err-msg {
-  margin-top: -16px;
-}
-
 @media only screen and (min-width: 768px) {
   fieldset:first-of-type label:not(label:last-child) {
     flex-basis: 48%;
